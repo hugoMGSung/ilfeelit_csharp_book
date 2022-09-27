@@ -1,6 +1,6 @@
 ---
 description: 내용 수정 중
-cover: .gitbook/assets/perso_20220927_004.png
+cover: .gitbook/assets/perso_20220927_004 (1).png
 coverY: 0
 ---
 
