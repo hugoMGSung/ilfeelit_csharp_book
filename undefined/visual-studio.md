@@ -20,3 +20,4 @@ description: Visual Studio Community를 설치합시다
 
 C:\DEV 라는 경로 아래에 언어설치는 Langs라는 폴더아래에 개발툴은 IDE 폴더 아래에 설치합니다.
 
+<figure><img src="../.gitbook/assets/perso_20220927_008.png" alt=""><figcaption></figcaption></figure>
