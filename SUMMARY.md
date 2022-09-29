@@ -10,4 +10,4 @@
 
 ## 😑 이제 C# 시작 <a href="#start-csharp" id="start-csharp"></a>
 
-* [Hello World](start-csharp/hello-world.md)
+* [Hello, world!](start-csharp/hello-world.md)
