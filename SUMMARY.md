@@ -12,3 +12,4 @@
 
 * [Hello, world!](start-csharp/hello-world.md)
 * [CLR](start-csharp/clr.md)
+* [변수와 데이터타입](start-csharp/undefined.md)
