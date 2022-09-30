@@ -11,3 +11,4 @@
 ## 😑 이제 C# 시작 <a href="#start-csharp" id="start-csharp"></a>
 
 * [Hello, world!](start-csharp/hello-world.md)
+* [CLR](start-csharp/clr.md)
