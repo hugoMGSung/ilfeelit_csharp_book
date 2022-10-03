@@ -60,3 +60,4 @@ description: 컴퓨터의 데이터를 담는 변수와 이 변수의 형태에 
 
 ### Boxing과 Unboxing
 
+값 형식의 데이터를 Object 타입에 담는 것을 Boxing이라고 하고 이러한 Object타입으로 변경된 데이터를 값 형식 객체에 할당하는 것을 Unboxing이라고 합니다.
