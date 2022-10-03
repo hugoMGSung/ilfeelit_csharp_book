@@ -51,3 +51,12 @@ description: 컴퓨터의 데이터를 담는 변수와 이 변수의 형태에 
 | double  |          | 8bytes   | ±5.0e-324 \~ ±1.7e308                                   |
 | decimal |          | 16bytes  | (-7.9 x 1028 - 7.9 x 1028) / (100 - 28)                 |
 | bool    |          | 1byte    | true, false                                             |
+
+### Object 타입
+
+오브젝트는 어떤 값이든지 다룰 수 있는 데이터형식입니다. C#은 모든 클래스의 가장 최상위 클래스가 Object이기 때문에 모든 형식을 담을 수 있는 것입니다.
+
+<figure><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4meIlHCiAOieav6CmRKjv5mA8ZtkHl06FhA&#x26;usqp=CAU" alt=""><figcaption></figcaption></figure>
+
+### Boxing과 Unboxing
+
